@@ -63,7 +63,7 @@ The min, max, and mean, along with the quartiles for the skill   players are all
 ```{r}
 t.test(pushups~position,data=mydata)
 ```
-
+The P-value for the test indicates that the chance of the two sets of   data being identical is nearly impossible, showing that there is a   true difference between the skill and the line players.  
 
 # Discussion and Conclusion
 
