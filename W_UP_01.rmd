@@ -53,6 +53,8 @@ It seems as though the median number of pushups the skill players can   do is fa
 ```{r}
 favstats(pushups~position,data=mydata)
 ```
+The min, max, and mean, along with the quartiles for the skill   players are all far higher than that of the line players.  
+
 
 ## Inferential Results
 
